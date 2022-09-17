@@ -31,6 +31,7 @@ tailwind.config = {
           'dark': '#151515',
           'light_dark': '#F3F3F3',
           'gray': '#7B7B7B',
+          'star': '#FFAC4A',
         },
         fontFamily: {
           inter: ['Inter', 'sans-serif']
