@@ -3,22 +3,22 @@ tailwind.config = {
       extend: {
         screens: {
           'x-sm': '320px',
-          // => @media (min-width: 340px - 639px) { ... }
+          // (min-width: 340px - 639px)
   
           'sm-mob': '640px',
-          // => @media (min-width: 640px - 767px) { ... }
+          // (min-width: 640px - 767px) 
     
           'md-tab': '768px',
-          // => @media (min-width: 768px - 1023px) { ... }
+          // (min-width: 768px - 1023px)
     
           'lg-lap': '1024px',
-          // => @media (min-width: 1024px - 1279px) { ... }
+          // (min-width: 1024px - 1279px)
     
           'xl-pc': '1280px',
-          // => @media (min-width: 1280px - 1535px) { ... }
+          // (min-width: 1280px - 1535px)
     
           'xxl-pc': '1536px',
-          // => @media (min-width: 1536px) { ... }
+          // (min-width: 1536px)
         },
         maxWidth: {
           'container': '1320px',
