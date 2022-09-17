@@ -3,7 +3,7 @@ tailwind.config = {
       extend: {
         screens: {
           'x-sm': '320px',
-          // (min-width: 340px - 639px)
+          // (min-width: 320px - 639px)
   
           'sm-mob': '640px',
           // (min-width: 640px - 767px) 
