@@ -33,6 +33,8 @@ tailwind.config = {
           'gray': '#7B7B7B',
           'star': '#FFAC4A',
           'dots': '#6A4DF41A',
+          'input': '#E8E8E8',
+          'input_txt': '#D0D0D0',
         },
         fontFamily: {
           inter: ['Inter', 'sans-serif']
